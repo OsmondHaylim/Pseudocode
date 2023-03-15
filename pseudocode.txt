@@ -1,0 +1,14 @@
+PSEUDOCODE PROGRAM ORDER MAKANAN ONLINE
+
+
+READ AND WRITE "makanan" with string
+READ AND WRITE "jumlah" with number
+READ AND WRITE "pesanan" with string
+READ AND WRITE "lagi" with bool
+
+WHILE "lagi" FALSE
+	STORE "makanan" with nasi goreng
+	STORE "jumlah" with 2
+	STORE "lagi" with FALSE
+	STORE "pesanan" with "pesanan"+"makanan"+"jumlah"
+PRINT "pesanan"
